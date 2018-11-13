@@ -21,6 +21,7 @@ function generateNewDeck()
     return deck;
 }
 
+
 function generateNewCard(deck) {
     let a;
     let b;
