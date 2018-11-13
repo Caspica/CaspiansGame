@@ -1,0 +1,24 @@
+﻿body {
+    
+    
+}
+h1 {
+    color:aquamarine;
+}
+main{
+    color: orangered;
+}
+.column {
+    float: left;
+    padding: 5px;
+}
+
+img{
+    width:40vw;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
